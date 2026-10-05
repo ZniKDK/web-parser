@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.cache/
+.idea/
+*.xlsx
+*.csv
+service_account.json
